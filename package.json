@@ -31,6 +31,6 @@
     "firebase-import": "node_modules/firebase-import/src/firebase-import.js"
   },
   "scripts": {
-    "build": "copyfiles -f src/firebase-import.js bin"
+    
   }
 }
