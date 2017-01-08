@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/firebase/firebase-import.git"
+    "url": "git://github.com/bakkerjean/firebase-import.git"
   },
   "keywords": [
     "firebase",
@@ -28,7 +28,7 @@
   "author": "Firebase",
   "license": "MIT",
   "bin": {
-    "firebase-import": "./bin/firebase-import.js"
+    "firebase-import": "./src/firebase-import.js"
   },
   "scripts": {
     "build": "copyfiles -f src/firebase-import.js bin"
