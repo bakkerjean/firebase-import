@@ -31,7 +31,6 @@
     "firebase-import": "./bin/firebase-import.js"
   },
   "scripts": {
-    "preinstall": "mkdir ./bin",
     "build": "copyfiles -f src/firebase-import.js bin"
   }
 }
